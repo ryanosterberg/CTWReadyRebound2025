@@ -1,0 +1,43 @@
+.card{
+  max-width: 300px;
+  max-height: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  length: 50%;
+  width: 50%;
+  margin: 20px auto;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #688ec065;
+}
+.card img{
+  max-width: 60%;
+  max-height: 60%;
+  border-radius: 10px;
+  
+}
+.Btn{
+  background-color: #688ec065;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border: 2px dashed rgb(59, 93, 144);
+}
+
+
+.counter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: #688ec065;
+  width: 200px;
+  height: 200px;
+  border: 2px solid rgb(59, 93, 144);
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(20, 49, 92);
+}
