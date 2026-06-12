@@ -1,8 +1,8 @@
-import Card from "./Card.jsx";
+import API from "./API.jsx";
 
 function App(){
     return(
-      <Card title="My Card" description="This is a simple card component." />
+      <API />
     )
 }
 export default App;

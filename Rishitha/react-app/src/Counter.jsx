@@ -1,7 +1,7 @@
 import { useState } from "react";
 function Counter(){
     const [count, setCount] = useState(0);
-    const updateCount = () => {setCount(count + 2)};
+    const updateCount = () => {setCount(count + 1)};
     const [isClicked, setIsClicked] = useState(false);
     const toggleClicked = () => {setIsClicked(!isClicked)};
     const resetCount = () => {setCount(0);}
