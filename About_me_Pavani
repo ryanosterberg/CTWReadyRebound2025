@@ -1,0 +1,45 @@
+%%html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pavani Gupta</title>
+</head>
+<body>
+    <div>
+        <h1>Pavani Gupta</h1>
+
+        <p><strong>Age:</strong> 16</p>
+        <p><strong>School:</strong> Brookfield East High School</p>
+        <p><strong>Grade:</strong> Junior</p>
+
+        <h2>About Me</h2>
+        <p>
+            Hi! I'm Pavani. I enjoy solving problems with technology and
+            learning about data science, machine learning, and programming.
+        </p>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Programming</li>
+            <li>Robotics</li>
+            <li>Policy Debate</li>
+            <li>Data Science Projects</li>
+            <li>Volunteering</li>
+        </ul>
+
+        <h2>Activities</h2>
+        <ul>
+            <li>Software Lead for FRC Team BEAST #2202</li>
+            <li>Policy Debate Captain</li>
+            <li>Girls Who Code</li>
+            <li>Spanish Honor Society Volunteer</li>
+        </ul>
+
+        <h2>Future Goals</h2>
+        <p>
+            I hope to study Data Science in college and use technology
+            to solve real-world problems.
+        </p>
+    </div>
+</body>
+</html>
